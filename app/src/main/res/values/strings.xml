@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tea Shop Indrico</string>
+    <string name="Barang">Nama Barang</string>
+    <string name="Harga">Harga</string>
+    <string name="nama">Indrico Jowensen Jasumin</string>
+    <string name="email">Indrico.jowensen@gmail.com</string>
+    <string name="kembali">Kembali</string>
+    <string name="Detail">Detail</string>
+</resources>
